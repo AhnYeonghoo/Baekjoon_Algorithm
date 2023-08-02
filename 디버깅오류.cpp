@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int mainTest2()
 {
 	int testcase;
 	cin >> testcase;

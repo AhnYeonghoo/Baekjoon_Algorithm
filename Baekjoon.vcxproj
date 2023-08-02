@@ -128,7 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="디버깅오류.cpp" />
+    <ClCompile Include="숫자의_합_구하기.cpp" />
     <ClCompile Include="시간복잡도.cpp" />
+    <ClCompile Include="평균_구하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
