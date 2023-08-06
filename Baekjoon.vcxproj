@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="P11659_구간합구하기.cpp" />
+    <ClCompile Include="P11660_구간합구하기2.cpp" />
     <ClCompile Include="디버깅오류.cpp" />
     <ClCompile Include="숫자의_합_구하기.cpp" />
     <ClCompile Include="시간복잡도.cpp" />
